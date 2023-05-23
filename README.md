@@ -1,26 +1,10 @@
-### Hi there 👋 it's KK
+# Hi, I'm Web Dev Koushal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Stats📈 
+<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushlendra-kumar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=koushlendra-kumar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=koushlendra-kumar&theme=highcontrast&hide_border=true" alt="#your-username" /> </p>
 
-#### :hammer_and_wrench: Languages and Tools :
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<!--
-**Koushlendra-Kumar/Koushlendra-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Languages and Tools :
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,react,redux,express,nodejs,tailwindcss" />
+</p>
+<!-- js,linkedin,linux,materialui,netlify,git,bash,c,cpp,css,express,github,html,
+nextjs,nodejs,postman,pug,react,redux,replit,stackoverflow,tailwind,ts,vercel,vscode -->
