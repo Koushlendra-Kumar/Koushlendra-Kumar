@@ -2,9 +2,24 @@
 ## Stats📈 
 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushlendra-kumar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=koushlendra-kumar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=koushlendra-kumar&theme=highcontrast&hide_border=true" alt="#your-username" /> </p>
 
-### :hammer_and_wrench: Languages and Tools :
+### :fountain_pen: Languages :
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,react,redux,express,nodejs,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,bash,html" />
 </p>
-<!-- js,linkedin,linux,materialui,netlify,git,bash,c,cpp,css,express,github,html,
-nextjs,nodejs,postman,pug,react,redux,replit,stackoverflow,tailwind,ts,vercel,vscode -->
+### :crossed_swords: Frameworks and Libraries :
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,express,tailwind" />
+</p>
+### :crossed_swords: Tools :
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,vscode,postman,linux,netlify,vercel" />
+</p>
+### :incoming_envelope: Connect with me :
+<p align="center">
+  <a href="https://www.linkedin.com/in/koushlendra-kumar-0b4118242/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    <a href="https://twitter.com/webdevkoushal">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
