@@ -1,11 +1,11 @@
 # :wave: Hi, I'm Web Dev Koushal :india:
 
 ## :chart_with_upwards_trend: Stats
-<p align="center"> <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=koushlendra-kumar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" />  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=koushlendra-kumar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=koushlendra-kumar&theme=highcontrast&hide_border=true" alt="#your-username" /> </p>
+<p align="center"> <img width="40%" src="https://github-stats-theta-umber.vercel.app/api/top-langs?username=koushlendra-kumar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" />  <img width="48%" src="https://github-stats-theta-umber.vercel.app/api?username=koushlendra-kumar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=koushlendra-kumar&theme=highcontrast&hide_border=true" alt="#your-username" /> </p>
 
 ### :fountain_pen: Languages :
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,bash,html" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,bash" />
 </p>
 
 ### :crossed_swords: Frameworks and Libraries :
