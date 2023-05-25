@@ -5,25 +5,40 @@
 
 ### :fountain_pen: Languages :
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,bash" />
+    <img src="https://skillicons.dev/icons?i=js" title='JavaScript' />
+    <img src="https://skillicons.dev/icons?i=ts" title='TypeScript' />
+    <img src="https://skillicons.dev/icons?i=html" title='HTML' />
+    <img src="https://skillicons.dev/icons?i=css" title='CSS' />
+    <img src="https://skillicons.dev/icons?i=c" title='C' />
+    <img src="https://skillicons.dev/icons?i=cpp" title='C++' />
+    <img src="https://skillicons.dev/icons?i=bash" title='Bash' />
 </p>
 
 ### :crossed_swords: Frameworks and Libraries :
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,express,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react" title = 'React.js'/>
+    <img src="https://skillicons.dev/icons?i=redux" title = 'Redux'/>
+    <img src="https://skillicons.dev/icons?i=nextjs" title = 'Next.js'/>
+    <img src="https://skillicons.dev/icons?i=express" title = 'Express.js' />
+    <img src="https://skillicons.dev/icons?i=tailwind" title = 'Tailwindcss' />
 </p>
 
 ### :crossed_swords: Tools :
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,vscode,postman,linux,netlify,vercel" />
+    <img src="https://skillicons.dev/icons?i=git" title='Git' />
+    <img src="https://skillicons.dev/icons?i=vscode" title='VSCode' />
+    <img src="https://skillicons.dev/icons?i=postman" title='Postman' />
+    <img src="https://skillicons.dev/icons?i=linux" title='Linux' />
+    <img src="https://skillicons.dev/icons?i=netlify" title='Netlify' />
+    <img src="https://skillicons.dev/icons?i=vercel" title='Vercel' />
 </p>
 
 ### :link: Connect with me :
 <p align="center">
   <a href="https://www.linkedin.com/in/koushlendra-kumar-0b4118242/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" title='Linkedin'/>
   </a>
     <a href="https://twitter.com/webdevkoushal">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" title='Twitter @webdevkoushal'/>
   </a>
 </p>
