@@ -4,7 +4,7 @@
 <p align="center"> 
     <img width="40%" src="https://github-stats-theta-umber.vercel.app/api/top-langs?username=koushlendra-kumar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Web Dev Koushal" />  
     <img width="48%" src="https://github-stats-theta-umber.vercel.app/api?username=koushlendra-kumar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Web Dev Koushal" /> 
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=koushlendra-kumar&theme=highcontrast&hide_border=true" alt="Web Dev Koushal" /> 
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=koushlendra-kumar&theme=highcontrast&hide_border=true&exclude_days=sun" alt="Web Dev Koushal" /> 
 </p>
 
 ### :fountain_pen: Languages :
