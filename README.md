@@ -1,5 +1,9 @@
-# :wave: Hi, I'm Web Dev Koushal :india:
+# :wave: Hey there
 
+### I'm Koushlendra Kumar :india:
+I am a self-taught full-stack developer and freelancer from India.
++ :watch: I am currently learning DSA from [Coding Interview University](https://github.com/jwasham/coding-interview-university)
++  💼 I am working on a full-stack E-commerce app.
 ## :chart_with_upwards_trend: Stats
 <p align="center"> 
     <img width="40%" src="https://github-stats-theta-umber.vercel.app/api/top-langs?username=koushlendra-kumar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Web Dev Koushal" />  
