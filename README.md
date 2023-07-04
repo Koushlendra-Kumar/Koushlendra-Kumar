@@ -12,8 +12,9 @@
 A self-taught full-stack developer and freelancer from India 🇮🇳.
 + ⏱️ I am currently learning DSA from [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 +  💼 I am working on a full-stack E-commerce app.
++  ❔ Ask me about anything <a href="mailto:code.koushlendra@gmail.com">Email</a>
 
-### :link: Connect with me :
+### 🔗 Connect with me :
 <p align="center">
   <a href="https://www.linkedin.com/in/koushlendra-kumar-0b4118242/">
     <img src="https://skillicons.dev/icons?i=linkedin" title='Linkedin'/>
@@ -21,9 +22,7 @@ A self-taught full-stack developer and freelancer from India 🇮🇳.
     <a href="https://twitter.com/webdevkoushal">
     <img src="https://skillicons.dev/icons?i=twitter" title='Twitter @webdevkoushal'/>
   </a>
-    <a href="mailto:code.koushlendra@gmail.com">
-        <img src="https://github.com/Koushlendra-Kumar/Koushlendra-Kumar/assets/95288059/37cc7cdc-0ac8-41e3-8d03-553769752274" height="60" width="60"/>
-    </a>
+    
 </p>
 
 ## :chart_with_upwards_trend: Stats
