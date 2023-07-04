@@ -1,8 +1,8 @@
-<a href="https://app.daily.dev/DailyDevTips" target="_blank">
+<a href="https://app.daily.dev/webdevkoushal" target="_blank">
     <img
       width="256"
       align="right"
-      src="https://github.com/Koushlendra-Kumar/Koushlendra-Kumar/blob/master/devcard.svg"
+      src="https://github.com/koushlendra-kumar/koushlendra-kumar/blob/master/devcard.svg"
     />
 </a>
 
