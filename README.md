@@ -12,6 +12,20 @@
 A self-taught full-stack developer and freelancer from India 🇮🇳.
 + ⏱️ I am currently learning DSA from [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 +  💼 I am working on a full-stack E-commerce app.
+
+### :link: Connect with me :
+<p align="center">
+  <a href="https://www.linkedin.com/in/koushlendra-kumar-0b4118242/">
+    <img src="https://skillicons.dev/icons?i=linkedin" title='Linkedin'/>
+  </a>
+    <a href="https://twitter.com/webdevkoushal">
+    <img src="https://skillicons.dev/icons?i=twitter" title='Twitter @webdevkoushal'/>
+  </a>
+    <a href="mailto:code.koushlendra@gmail.com">
+        <img src="https://github.com/Koushlendra-Kumar/Koushlendra-Kumar/assets/95288059/37cc7cdc-0ac8-41e3-8d03-553769752274" height="60" width="60"/>
+    </a>
+</p>
+
 ## :chart_with_upwards_trend: Stats
 <p align="center"> 
     <img width="40%" src="https://github-stats-theta-umber.vercel.app/api/top-langs?username=koushlendra-kumar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Web Dev Koushal" />  
@@ -49,12 +63,4 @@ A self-taught full-stack developer and freelancer from India 🇮🇳.
     <img src="https://skillicons.dev/icons?i=vercel" title='Vercel' />
 </p>
 
-### :link: Connect with me :
-<p align="center">
-  <a href="https://www.linkedin.com/in/koushlendra-kumar-0b4118242/">
-    <img src="https://skillicons.dev/icons?i=linkedin" title='Linkedin'/>
-  </a>
-    <a href="https://twitter.com/webdevkoushal">
-    <img src="https://skillicons.dev/icons?i=twitter" title='Twitter @webdevkoushal'/>
-  </a>
-</p>
+
