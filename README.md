@@ -1,6 +1,6 @@
-# :wave: Hey there
+## :wave: Hey there
 
-### I'm Koushlendra Kumar
+# I'm Koushlendra Kumar
 A self-taught full-stack developer and freelancer from India 🇮🇳.
 + ⏱️ I am currently learning DSA from [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 +  💼 I am working on a full-stack E-commerce app.
