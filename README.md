@@ -2,7 +2,7 @@
     <img
       width="256"
       align="right"
-      src="https://github.com/koushlendra-kumar/koushlendra-kumar/blob/master/devcard.svg"
+      src="https://github.com/Koushlendra-Kumar/Koushlendra-Kumar/blob/8de6b57e35c8ae1f2d5f80d7ec9ea3103134944f/devcard.svg"
     />
 </a>
 
