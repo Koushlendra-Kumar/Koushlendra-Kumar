@@ -10,7 +10,7 @@
 ## :wave: Hey there
 
 # I'm Koushlendra Kumar
-A self-taught full-stack developer and freelancer from India 🇮🇳.
+A self-taught full-stack developer and freelancer from Ranchi, India 🇮🇳.
 + ⏱️ I am currently learning DSA from [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 +  💼 I am working on a full-stack E-commerce app.
 +  ❔ Ask me about anything <a href="mailto:webdevkoushal@gmail.com">Email</a>
