@@ -13,7 +13,7 @@
 A self-taught full-stack developer and freelancer from Ranchi, India 🇮🇳.
 + ⏱️ I am currently learning DSA from [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 +  💼 I am working on a full-stack E-commerce app.
-+  ❔ Ask me about anything <a href="mailto:webdevkoushal@gmail.com">Email</a>
++  ❔ Ask me about anything <a href="mailto:webdevkoushal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt ="Email"/></a>
 
 ### 🔗 Connect with me :
 <p align="center">
