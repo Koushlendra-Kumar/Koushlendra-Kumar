@@ -36,20 +36,17 @@ A self-taught full-stack developer and freelancer from Ranchi, India 🇮🇳.
 ### :fountain_pen: Languages :
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js" title='JavaScript' />
-    <img src="https://skillicons.dev/icons?i=ts" title='TypeScript' />
+    <img src="https://skillicons.dev/icons?i=py" title='Python' />
     <img src="https://skillicons.dev/icons?i=html" title='HTML' />
     <img src="https://skillicons.dev/icons?i=css" title='CSS' />
-    <img src="https://skillicons.dev/icons?i=c" title='C' />
     <img src="https://skillicons.dev/icons?i=cpp" title='C++' />
-    <img src="https://skillicons.dev/icons?i=bash" title='Bash' />
 </p>
 
 ### :crossed_swords: Frameworks and Libraries :
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react" title = 'React.js'/>
-    <img src="https://skillicons.dev/icons?i=redux" title = 'Redux'/>
-    <img src="https://skillicons.dev/icons?i=nextjs" title = 'Next.js'/>
     <img src="https://skillicons.dev/icons?i=express" title = 'Express.js' />
+    <img src="https://skillicons.dev/icons?i=nextjs" title = 'Next.js'/>
     <img src="https://skillicons.dev/icons?i=tailwind" title = 'Tailwindcss' />
 </p>
 
@@ -59,8 +56,6 @@ A self-taught full-stack developer and freelancer from Ranchi, India 🇮🇳.
     <img src="https://skillicons.dev/icons?i=vscode" title='VSCode' />
     <img src="https://skillicons.dev/icons?i=postman" title='Postman' />
     <img src="https://skillicons.dev/icons?i=linux" title='Linux' />
-    <img src="https://skillicons.dev/icons?i=netlify" title='Netlify' />
-    <img src="https://skillicons.dev/icons?i=vercel" title='Vercel' />
 </p>
 
 
