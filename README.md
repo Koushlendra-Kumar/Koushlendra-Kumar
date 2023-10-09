@@ -46,6 +46,7 @@ A self-taught full-stack developer and freelancer from India 🇮🇳.
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react" title = 'React.js'/>
     <img src="https://skillicons.dev/icons?i=express" title = 'Express.js' />
+    <img src="https://skillicons.dev/icons?i=django" title = 'Django' />
     <img src="https://skillicons.dev/icons?i=nextjs" title = 'Next.js'/>
     <img src="https://skillicons.dev/icons?i=tailwind" title = 'Tailwindcss' />
 </p>
