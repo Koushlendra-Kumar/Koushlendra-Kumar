@@ -53,6 +53,7 @@ A self-taught full-stack developer and freelancer from India 🇮🇳.
 
 ### :crossed_swords: Tools :
 <p align="center">
+    <img src="https://skillicons.dev/icons?i=redux" title='Redux' />
     <img src="https://skillicons.dev/icons?i=git" title='Git' />
     <img src="https://skillicons.dev/icons?i=vscode" title='VSCode' />
     <img src="https://skillicons.dev/icons?i=postman" title='Postman' />
