@@ -21,7 +21,7 @@ A self-taught full-stack developer and freelancer from India 🇮🇳.
     <img src="https://skillicons.dev/icons?i=linkedin" title='Linkedin'/>
   </a>
     <a href="https://twitter.com/webdevkoushal">
-    <img src="https://skillicons.dev/icons?i=twitter" title='Twitter @webdevkoushal'/>
+    <img src="https://github.com/Koushlendra-Kumar/Koushlendra-Kumar/blob/main/logo.svg?raw=true" title='Twitter @webdevkoushal'/>
   </a>
     
 </p>
