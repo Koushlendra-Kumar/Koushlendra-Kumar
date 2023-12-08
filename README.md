@@ -26,14 +26,14 @@ A MERN stack developer and freelancer from India 🇮🇳.
     
 </p>
 
-## :chart_with_upwards_trend: Stats
+## 📈  Stats
 <p align="center"> 
     <img width="40%" src="https://github-stats-theta-umber.vercel.app/api/top-langs?username=koushlendra-kumar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=donut&hide_border=true" alt="Web Dev Koushal" />  
     <img width="48%" src="https://github-stats-theta-umber.vercel.app/api?username=koushlendra-kumar&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Web Dev Koushal" /> 
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=koushlendra-kumar&theme=highcontrast&hide_border=true" alt="Web Dev Koushal" /> 
 </p>
 
-### :fountain_pen: Languages :
+### 🖋️   Languages :
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js" title='JavaScript' />
     <img src="https://skillicons.dev/icons?i=py" title='Python' />
@@ -42,7 +42,7 @@ A MERN stack developer and freelancer from India 🇮🇳.
     <img src="https://skillicons.dev/icons?i=cpp" title='C++' />
 </p>
 
-### :crossed_swords: Frameworks and Libraries :
+### ⚔️ Frameworks and Libraries :
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react" title = 'React.js'/>
     <img src="https://skillicons.dev/icons?i=express" title = 'Express.js' />
@@ -51,7 +51,7 @@ A MERN stack developer and freelancer from India 🇮🇳.
     <img src="https://skillicons.dev/icons?i=tailwind" title = 'Tailwindcss' />
 </p>
 
-### :crossed_swords: Tools :
+### ⚔️ Tools :
 <p align="center">
     <img src="https://skillicons.dev/icons?i=redux" title='Redux' />
     <img src="https://skillicons.dev/icons?i=git" title='Git' />
