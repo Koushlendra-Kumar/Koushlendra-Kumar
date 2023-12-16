@@ -10,9 +10,8 @@
 ## :wave: Hey there
 
 # I'm Koushlendra Kumar
-A JavaScript developer and freelancer from India 🇮🇳.
-+ ⏱️ Currently learning DSA from [Coding Interview University](https://github.com/jwasham/coding-interview-university) and [mycodeschool](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P).
-+  ❔ Ask me about anything <a href="mailto:webdevkoushal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt ="Email"/></a>
+I'm a passionate MERN stack developer with a love for crafting clean and efficient code. My journey in the world of web development involves building robust and scalable applications using MongoDB, Express.js, React, and Node.js. I thrive on turning ideas into reality and solving real-world problems through the power of technology.
+
 
 ### 🔗 Connect with me :
 <p align="center">
