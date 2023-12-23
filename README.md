@@ -1,13 +1,6 @@
-<a href="https://app.daily.dev/webdevkoushal" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/Koushlendra-Kumar/Koushlendra-Kumar/blob/main/devcard.svg?raw=true"
-      alt="Web Dev Koushal's Devcard"
-    />
-</a>
 
-## :wave: Hey there
+
+## 👋 Hey there
 
 # I'm Koushlendra Kumar
 I'm a passionate MERN stack developer with a love for crafting clean and efficient code. My journey in the world of web development involves building robust and scalable applications using MongoDB, Express.js, React, and Node.js. I thrive on turning ideas into reality and solving real-world problems through the power of technology.
