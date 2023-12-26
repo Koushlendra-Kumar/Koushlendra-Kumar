@@ -7,12 +7,12 @@ I'm a passionate MERN stack developer with a love for crafting clean and efficie
 
 
 ### 🔗 Connect with me :
-<p align="center">
+<p align='center'>
   <a href="https://www.linkedin.com/in/koushlendra-kumar-0b4118242/">
-    <img src="https://skillicons.dev/icons?i=linkedin" title='Linkedin'/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title='Linkedin'/>
   </a>
     <a href="https://twitter.com/webdevkoushal">
-    <img src="https://github.com/Koushlendra-Kumar/Koushlendra-Kumar/blob/main/logo-black.png?raw=true" title='Twitter @webdevkoushal' width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title='Twitter @webdevkoushal'/>
   </a>
     
 </p>
