@@ -2,7 +2,7 @@
 
 ## 👋 Hey there
 
-# I'm Koushlendra Kumar
+# I'm Koushal
 I'm a passionate MERN stack developer with a love for crafting clean and efficient code. My journey in the world of web development involves building robust and scalable applications using MongoDB, Express.js, React, and Node.js. I thrive on turning ideas into reality and solving real-world problems through the power of technology.
 
 
@@ -27,7 +27,6 @@ I'm a passionate MERN stack developer with a love for crafting clean and efficie
 ### 🖋️   Languages :
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js" title='JavaScript' />
-    <img src="https://skillicons.dev/icons?i=py" title='Python' />
     <img src="https://skillicons.dev/icons?i=html" title='HTML' />
     <img src="https://skillicons.dev/icons?i=css" title='CSS' />
     <img src="https://skillicons.dev/icons?i=cpp" title='C++' />
@@ -37,7 +36,6 @@ I'm a passionate MERN stack developer with a love for crafting clean and efficie
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react" title = 'React.js'/>
     <img src="https://skillicons.dev/icons?i=express" title = 'Express.js' />
-    <img src="https://skillicons.dev/icons?i=django" title = 'Django' />
     <img src="https://skillicons.dev/icons?i=nextjs" title = 'Next.js'/>
     <img src="https://skillicons.dev/icons?i=tailwind" title = 'Tailwindcss' />
 </p>
